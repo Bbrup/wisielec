@@ -1,5 +1,5 @@
-# wisielec
+# wisielec  
 
 
-Wisielec
+Wisielec  
 Program, który symuluje popularną grę wisielec.
